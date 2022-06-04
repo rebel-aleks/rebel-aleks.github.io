@@ -1,2 +1,2 @@
-# rebel-aleks.github.io
+# rebel-aleks.github.io/index.html
 My static page
